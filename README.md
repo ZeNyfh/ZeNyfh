@@ -64,6 +64,6 @@
 
 <div align="center">
   <p>
-    Feel free to reach out via Discord or email. I'm always excited to connect with fellow developers and enthusiasts! I'm looking forward to exploring the world of coding together. And always remember to have fun!
+    Feel free to reach out via Discord or email. I'm always excited to connect with fellow developers and enthusiasts! I'm looking forward to exploring the world of coding together, and always remember to have fun!
   </p>
 </div>
