@@ -23,7 +23,7 @@
     <li>💼 Open to collaboration on exciting projects and opportunities.</li>
     <li>📚 Always learning and staying up-to-date with the latest developments in computing.</li>
     <li>🏆 Gold Level Industrial Cadets Award holder.</li>
-    <li>🎓 Currently studying the Level 3 Extended Diploma in Computing.</li>
+    <li>🎓 Currently studying a BTEC Level 3 Extended Diploma in Computing.</li>
   </ul>
 </div>
 
@@ -33,10 +33,10 @@
 
 <div>
   <ul>
-    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1139417687278231552/javamade.png" alt="Java" height="32"><br>
-    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1139417687492149368/pythonmade.png" alt="Python" height="32"><br>
-    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1139417687714435152/skriptlangmade.png" alt="SkriptLang" height="32"><br>
-    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1139417687030763560/typescriptmade.png" alt="TypeScript" height="32">
+    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1190789804984635493/java.png" alt="Java" height="32"><br>
+    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1190789804540039198/py.png" alt="Python" height="32"><br>
+    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1190789804779122748/sk.png" alt="SkriptLang" height="32"><br>
+    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1190789804292583525/ts.png" alt="TypeScript" height="32">
   </ul>
 </div>
 
