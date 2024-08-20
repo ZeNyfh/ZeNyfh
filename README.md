@@ -9,7 +9,7 @@
 
 <div align="center">
   <p>
-    I am a software developer with proficiency in Java. Along with good knowledge of Python, TypeScript, and SkriptLang.
+    I am a software developer with proficiency in Java. Along with good knowledge of Python, C++, TypeScript, React native, and SkriptLang.
   </p>
 </div>
 
@@ -23,7 +23,7 @@
     <li>💼 Open to collaboration on exciting projects and opportunities.</li>
     <li>📚 Always learning and staying up-to-date with the latest developments in computing.</li>
     <li>🏆 Gold Level Industrial Cadets Award holder.</li>
-    <li>🎓 Currently studying a BTEC Level 3 Extended Diploma in Computing.</li>
+    <li>🎓 Computing Level 3 Extended Diploma holder.</li>
   </ul>
 </div>
 
