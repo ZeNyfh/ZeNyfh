@@ -16,7 +16,7 @@
 
 ## About
 
-I build practical software around media playback, modded Minecraft, Linux desktop integration, localisation, and data-driven tooling. My main language is Java, with additional work in Python, Go, TypeScript, C++, React Native, and SkriptLang.
+I build practical software around media playback, modded Minecraft, Linux desktop integration, localisation, and data-driven tooling. My main language is Java, with additional work in Python, Go, TypeScript, C++, C, HTML, CSS.
 
 I like projects that connect real systems together: Discord voice, media extractors, desktop players, PipeWire, geospatial datasets, and game runtimes.
 
