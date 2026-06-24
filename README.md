@@ -3,7 +3,7 @@
 
   <h1>ZeNyfh | Dawid B</h1>
 
-  <p><strong>Java-focused developer building Discord media bots, Linux desktop tools, and Minecraft/geospatial projects.</strong></p>
+  <p><strong>Java-focused developer building Discord media bots, Linux desktop tools, data analysis, and Minecraft projects.</strong></p>
 
 <p>
   <a href="https://github.com/ZeNyfh?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
