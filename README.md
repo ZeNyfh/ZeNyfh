@@ -1,69 +1,122 @@
 <div align="center">
-  <h1>Hi there, I'm ZeNyfh!</h1>
-  <img src="https://cdn.discordapp.com/attachments/658987790788460544/1139388972267741325/zenyfh.png" alt="ZeNyfh">
+  <img src="https://avatars.githubusercontent.com/u/66276905?v=4" alt="ZeNyfh" width="140">
+
+  <h1>ZeNyfh | Dawid B</h1>
+
+  <p><strong>Java-focused developer building Discord media bots, Linux desktop tools, and Minecraft/geospatial projects.</strong></p>
+
+<p>
+  <a href="https://github.com/ZeNyfh?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dawid-barka-329703331/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dawid%20Barka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discordapp.com/users/211789389401948160"><img alt="Discord" src="https://img.shields.io/badge/Discord-ZeNyfh-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:zenyfh01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://ko-fi.com/zenyfh"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
+</p>
 </div>
 
-<div align="center">
-  <h2>Welcome to my GitHub profile!</h2>
-</div>
+## About
 
-<div align="center">
-  <p>
-    I am a software developer with proficiency in Java. Along with good knowledge of Python, C++, TypeScript, React native, and SkriptLang.
-  </p>
-</div>
+I build practical software around media playback, modded Minecraft, Linux desktop integration, localisation, and data-driven tooling. My main language is Java, with additional work in Python, Go, TypeScript, C++, React Native, and SkriptLang.
 
-<div align="center">
-  <h2>About Me</h2>
-</div>
+I like projects that connect real systems together: Discord voice, media extractors, desktop players, PipeWire, geospatial datasets, and game runtimes.
 
-<div>
-  <ul>
-    <li>🌱 Currently working on Minecraft modding and a Discord bot focused around media.</li>
-    <li>💼 Open to collaboration on exciting projects and opportunities.</li>
-    <li>📚 Always learning and staying up-to-date with the latest developments in computing.</li>
-    <li>🏆 Gold Level Industrial Cadets Award holder.</li>
-    <li>🎓 Computing Level 3 Extended Diploma holder.</li>
-  </ul>
-</div>
+## Current focus
 
-<div align="center">
-  <h2>Skills</h2>
-</div>
+- Maintaining and extending [Zenvibe](https://github.com/ZeNyfh/Zenvibe), a self-hostable Discord audio bot.
+- Building Linux media tooling through [lyricsGUI](https://github.com/ZeNyfh/lyricsGUI).
+- Exploring UK terrain, geology, flora, and environments through data analysis, visualisation, and Minecraft world-generation in [271 UK Create](https://github.com/ZeNyfh/271-UK-Create).
+- Improving localisation, packaging, and user-facing polish across my projects.
 
-<div>
-  <ul>
-    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1190789804984635493/java.png" alt="Java" height="32"><br>
-    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1190789804540039198/py.png" alt="Python" height="32"><br>
-    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1190789804779122748/sk.png" alt="SkriptLang" height="32"><br>
-    <img src="https://cdn.discordapp.com/attachments/658987790788460544/1190789804292583525/ts.png" alt="TypeScript" height="32">
-  </ul>
-</div>
+## Tech stack
 
-<div align="center">
-  <h2>Projects</h2>
-</div>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-25-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
-<div>
-  <ol>
-    <li><a href="https://github.com/ZeNyfh/gigavibe-java-edition">Zenvibe</a> - A discord bot written in Java using JDA and lavaplayer for media downloads, and audio streaming in VoIP calls.</li>
-    <li><a href="https://github.com/ZeNyfh/rbhop-MC">RBHOP-MC</a> - A Minecraft project which overhauls movement with client and server side logic for <a href="https://en.wikipedia.org/wiki/Strafing_(video_games)">bhop</a> physics.</li>
-  </ol>
-</div>
+<p>
+  <img alt="JDA" src="https://img.shields.io/badge/JDA-Discord%20API-5865F2?style=flat-square&logo=discord&logoColor=white">
+  <img alt="Lavaplayer" src="https://img.shields.io/badge/Lavaplayer-Audio-4051B5?style=flat-square">
+  <img alt="NeoForge" src="https://img.shields.io/badge/NeoForge-Minecraft-5C7C3A?style=flat-square">
+  <img alt="Wails" src="https://img.shields.io/badge/Wails-Desktop-DF0000?style=flat-square">
+  <img alt="PipeWire" src="https://img.shields.io/badge/PipeWire-Linux%20Audio-2E8B57?style=flat-square">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-Frontend-646CFF?style=flat-square&logo=vite&logoColor=white">
+</p>
 
-<div align="center">
-  <h2>Get in Touch</h2>
-</div>
+## Featured projects
 
-<div align="center">
-  <p>
-    Feel free to contact me on Discord: <a href="https://discordapp.com/users/211789389401948160">ZeNyfh</a><br>
-    Email: <a href="mailto:zenyfh01@gmail.com">zenyfh01@gmail.com</a>
-  </p>
-</div>
+### [Zenvibe](https://github.com/ZeNyfh/Zenvibe)
 
-<div align="center">
-  <p>
-    Feel free to reach out via Discord or email. I'm always excited to connect with fellow developers and enthusiasts! I'm looking forward to exploring the world of coding together, and always remember to have fun!
-  </p>
-</div>
+<p>
+  <img alt="Repo stars" src="https://img.shields.io/github/stars/ZeNyfh/Zenvibe?style=flat-square&logo=github&label=stars">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/ZeNyfh/Zenvibe?style=flat-square&logo=github">
+  <img alt="Java" src="https://img.shields.io/badge/Java-25-007396?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-Bot-5865F2?style=flat-square&logo=discord&logoColor=white">
+</p>
+
+A Discord audio bot written in Java using JDA and Lavaplayer. Zenvibe supports self-hosting, voice-channel audio playback, custom DJ users or roles, Spotify support, and multiple localisations.
+
+Highlights:
+
+- Self-hostable Java bot with release JARs and configurable `.env` setup.
+- Audio playback built around JDA and Lavaplayer.
+- Spotify support through Spotify Tokener integration.
+- Localisation coverage for English, Polish, Dutch, Danish, Spanish, and Bulgarian.
+
+
+### [271 UK Create](https://github.com/ZeNyfh/271-UK-Create)
+
+<p>
+  <img alt="Repo stars" src="https://img.shields.io/github/stars/ZeNyfh/271-UK-Create?style=flat-square&logo=github&label=stars">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/ZeNyfh/271-UK-Create?style=flat-square&logo=github">
+  <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat-square">
+  <img alt="NeoForge" src="https://img.shields.io/badge/NeoForge-21.1.230-5C7C3A?style=flat-square">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue?style=flat-square">
+</p>
+
+A Minecraft mod and data pipeline for UK heightmap and geology-informed world generation. It combines preprocessed raster tiles with a NeoForge runtime mod for Minecraft 1.21.1.
+
+Highlights:
+
+- Uses UK terrain and geology data to drive world-generation decisions.
+- Includes preprocessing and runtime components rather than only in-game code.
+- Demonstrates geospatial data handling, asset generation, and Java mod development.
+
+
+### [lyricsGUI](https://github.com/ZeNyfh/lyricsGUI)
+
+<p>
+  <img alt="Repo stars" src="https://img.shields.io/github/stars/ZeNyfh/lyricsGUI?style=flat-square&logo=github&label=stars">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/ZeNyfh/lyricsGUI?style=flat-square&logo=github">
+  <img alt="Go" src="https://img.shields.io/badge/Go-Backend-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=flat-square&logo=typescript&logoColor=white">
+</p>
+
+A Linux desktop lyrics and media companion built around desktop media integration.
+
+Highlights:
+
+- Connects desktop media state to a GUI workflow.
+- Fits into Linux media tooling such as MPRIS, playerctl, KDE Connect, PipeWire, and pactl.
+- Shows my interest in polished desktop utilities, not only command-line tools.
+
+## Background
+
+- Gold Level Industrial Cadets Award holder.
+- Computing Level 3 Extended Diploma holder.
+- Daily Linux user with experience across Debian, Linux Mint, and Cinnamon-based workflows.
+- Interested in collaboration on Java, Discord, Minecraft, Linux desktop, and media tooling projects.
+
+## Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/dawid-barka-329703331/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dawid%20Barka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discordapp.com/users/211789389401948160"><img alt="Discord" src="https://img.shields.io/badge/Discord-ZeNyfh-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:zenyfh01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zenyfh01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+Open to collaboration, feedback, and conversations with developers working on bots, media tooling, Minecraft mods, Linux utilities, or localisation-heavy applications.
